@@ -1,0 +1,58 @@
+@import url(../vars.css);
+.Navbar {
+    display: flex;
+    padding-left: 137px;
+    padding-right: 137px;
+    padding-top: 41px;
+    width: 100%;
+    justify-content: space-between;
+    background-color: transparent;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.NavbarActive {
+    display: flex;
+    padding-left: 137px;
+    padding-right: 137px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    width: 100%;
+    justify-content: space-between;
+    backdrop-filter: blur(15px) saturate(90%);
+    position: sticky;
+    top: 0;
+    z-index: 3;
+}
+
+.Nav{
+    display: flex;
+}
+
+.Nav li{
+    list-style: none;
+}
+.NavItem{
+    justify-self: left;
+    padding-right: 47px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+
+a:active{
+    color: #000000;
+}
+
+
+.iconBox{
+    display: flex;
+}
+.icon{
+    color: white;
+    font-size: 30px;
+    font-weight: normal;
+}

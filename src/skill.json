@@ -1,0 +1,51 @@
+[
+    {
+        "name": "HTML",
+        "image": "https://img.icons8.com/color/48/000000/html-5.png"
+    },
+    {
+        "name": "Python",
+        "image": "https://img.icons8.com/color/48/000000/python.png"
+    },
+    {
+        "name": "CSS",
+        "image": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "image": "https://img.icons8.com/color/48/000000/javascript.png"
+    },
+    {
+        "name": "Java",
+        "image": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"
+    },
+    {
+        "name": "Firebase",
+        "image": "https://img.icons8.com/color/48/000000/firebase.png"
+    },
+    {
+        "name": "MySQL",
+        "image": "https://img.icons8.com/color/48/000000/mysql.png"
+    },
+    {
+        "name": "Oracle",
+        "image": "https://img.icons8.com/color/48/000000/oracle-logo.png"
+    },
+    {
+        "name": "React",
+        "image": "https://img.icons8.com/color/48/000000/react-native.png"
+    },
+    {
+        "name": "Laravel",
+        "image": "https://img.icons8.com/fluency/48/000000/laravel.png"
+    },
+
+    {
+        "name": "Flask",
+        "image": "https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000"
+    },
+    {
+        "name": "Django",
+        "image": "https://img.icons8.com/color/48/000000/django.png"
+    }
+]

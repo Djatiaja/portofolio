@@ -1,0 +1,21 @@
+.container{
+    padding-left: 137px;
+    padding-right: 137px;
+    padding-top: 61px;
+    width: 100%;
+}
+
+.textSection{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+}
+
+.listSkill{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;   
+}

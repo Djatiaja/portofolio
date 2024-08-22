@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 163px;
+}
+
+
+.Circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: #19376D;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Circle img{
+    width: 80px;
+    height: 80px;
+}
+
+.SkillName{
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+}
