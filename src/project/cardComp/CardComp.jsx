@@ -1,9 +1,9 @@
-import {  getImgURL } from '../../utils';
+import {  getImageUrl } from '../../utils';
 import styles from './CardComp.module.css';
 function CardComp(props){
     return(
         <div className={styles.card}>
-            <img src={props.img?getImgURL("project/"+props.img):"https://placehold.co/600x400"} alt={props.alt?props.alt   :"project image"}></img>
+            <img src={getImageUrl(`project/${props.img}`)} alt={props.alt?props.alt   :"project image"}></img>
             <div className={styles.info}>
                 <h3>{props.title}</h3> 
                 <p>{props.desc}</p>
