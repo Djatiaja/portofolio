@@ -24,19 +24,23 @@ function Navbar(){
         <nav className={scroll?style.NavbarActive:style.Navbar}>
             <a href="" className={style.iconBox}><h2 className={style.icon}>Djatiaja</h2></a>
             <ul className={style.Nav}>
-                <a href="">
+                <a href="#">
                 <li className={style.NavItem}>Home</li>    
                 </a>
+                
+                <a href="#skill">
+                <li className={style.NavItem}>Skill</li>    
+                </a>
 
-                <a href="">
+                <a href="#project">
                 <li className={style.NavItem}>Project</li>    
                 </a>
-                
-                <a href="">
+
+                {/* <a href="#">
                 <li className={style.NavItem}>About</li>    
-                </a>
+                </a> */}
                 
-                <a href="">
+                <a href="#contact">
                 <li className={style.NavItem}>Contact</li>    
                 </a>
             </ul> 

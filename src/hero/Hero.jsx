@@ -3,7 +3,7 @@ import mascot from '../assets/header-img.svg';
 import { TypeAnimation } from 'react-type-animation';
 function Hero(){
     return (
-        <div className={styles.container}>
+        <div className={styles.container} id='main'>
             <div className= {styles.hero}>
                 <div className={styles.heroContent}>
                     <h1 className={styles.heroTitle}>Hi, I'm Damar</h1>

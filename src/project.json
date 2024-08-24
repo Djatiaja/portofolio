@@ -14,7 +14,7 @@
             "title": "First React Web",
             "desc": "Web ini dibuat dengan menggunakan React untuk menampilkan project yang telah saya buat",
             "techStack": ["React"],
-            "source": "https://source2.com"
+            "source": "https://github.com/Djatiaja/first-react-web.git"
         }
     ]
 }

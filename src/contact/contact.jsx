@@ -4,7 +4,7 @@ import styles from './contact.module.css';
 
 function Contact(props) {
   return (
-    <div className={styles.container}>
+    <div className={styles.container} id='contact'>
         
         <div className={styles.text}>
             <h2>Contact</h2>
@@ -13,7 +13,7 @@ function Contact(props) {
         <div className={styles.contact}>
             <a href="https://www.linkedin.com/in/damarjati-adiyuda-muktitama-43bb34287/" className={styles.contactLink}>
                 <img src={getImgURL("icon/linkedin.png")} alt="https://www.linkedin.com/in/damarjati-adiyuda-muktitama-43bb34287/"></img>
-                <p>LinkedIn</p>
+                <p>linkedin.com/Damarjati Adiyuda Muktitama</p>
             </a>
             <a href="https://github.com/Djatiaja" className={styles.contactLink}>
                 <img src={getImgURL("icon/github-sign.png")} alt="github"></img>

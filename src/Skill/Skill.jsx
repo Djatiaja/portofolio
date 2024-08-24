@@ -5,7 +5,7 @@ import Marquee from "react-fast-marquee";
 
 function Skill(){
     return (
-        <div className={styles.container}>
+        <div className={styles.container} id='skill'>
             <h2 className={styles.textSection}> Skill</h2>
             <div className={styles.listSkill}>
 `                <Marquee play={true} autoFill={true} pauseOnHover={true}>
