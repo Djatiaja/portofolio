@@ -1,2 +1,3 @@
-{  "root": "./dist"
+{  
+    "root": "./dist/index.html"
 }
