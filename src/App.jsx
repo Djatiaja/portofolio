@@ -4,6 +4,7 @@ import Hero from "./hero/Hero";
 import Skill from "./Skill/Skill";
 import Footer from "./footer/footer";
 import Project from "./project/project";
+import Contact from "./contact/contact";
 function App(){
   return (
     <div className={style.App}>
@@ -11,7 +12,8 @@ function App(){
       <Hero/>
       <Skill/> 
       <Project/>
-      <Footer /> 
+      <Contact /> 
+      <Footer/>
     </div>
     );
 }

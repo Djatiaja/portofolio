@@ -19,6 +19,7 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    gap: 20px;
 }
 
 .More{
@@ -36,4 +37,7 @@
 .More:hover{
     background-color: #95a9ee;
     cursor: pointer;
+}
+.gap{
+    height: 50px;
 }

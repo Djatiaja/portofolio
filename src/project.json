@@ -1,0 +1,20 @@
+{
+    "projects": [
+        {
+            "img": "KMIT.png",
+            "alt": "Know More IT Game",
+            "title": "Know More IT Game",
+            "desc": "Game ini menceritakan tentang anak IT yang sedang menjalankan kunjungan ke perusahaan",
+            "techStack": ["Java"],
+            "source": "https://github.com/Djatiaja/Final-PPBO-Game.git"
+        },
+        {
+            "img": "FirstReactWeb.png",
+            "alt": "First react web",
+            "title": "First React Web",
+            "desc": "Web ini dibuat dengan menggunakan React untuk menampilkan project yang telah saya buat",
+            "techStack": ["React"],
+            "source": "https://source2.com"
+        }
+    ]
+}
