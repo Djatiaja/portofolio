@@ -1,4 +1,4 @@
-import Navbar from "./navbar/navbar";
+import Navbar from "./navbar/Navbar.jsx";
 import style from './App.module.css';
 import Hero from "./hero/Hero";
 import Skill from "./Skill/Skill";
