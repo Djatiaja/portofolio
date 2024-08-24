@@ -12,11 +12,11 @@ function Contact(props) {
         </div>
         <div className={styles.contact}>
             <a href="https://www.linkedin.com/in/damarjati-adiyuda-muktitama-43bb34287/" className={styles.contactLink}>
-                <img src={getImgURL("icon/linkedin.png")} alt="https://www.linkedin.com/in/damarjati-adiyuda-muktitama-43bb34287/"></img>
+                <img src={getImgURL("/linkedin.png")} alt="https://www.linkedin.com/in/damarjati-adiyuda-muktitama-43bb34287/"></img>
                 <p>linkedin.com/Damarjati Adiyuda Muktitama</p>
             </a>
             <a href="https://github.com/Djatiaja" className={styles.contactLink}>
-                <img src={getImgURL("icon/github-sign.png")} alt="github"></img>
+                <img src={getImgURL("/github-sign.png")} alt="github"></img>
                 <p>github.com/Djatiaja</p>
             </a>
             <a href="mailto: djamgt23@gmail.com" className={styles.contactLink}>

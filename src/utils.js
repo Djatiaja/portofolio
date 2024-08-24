@@ -1,3 +1,4 @@
 export const getImgURL=  (url)=> {
-  return new URL("assets/"+url, import.meta.url).href;
+  console.log( import.meta.url)
+  return new URL("./assets/"+url, import.meta.url.href).href;
 }
