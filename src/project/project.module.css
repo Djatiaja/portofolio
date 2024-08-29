@@ -20,6 +20,7 @@
     justify-content: center;
     flex-wrap: wrap;
     gap: 20px;
+    transition: height 2.5s;
 }
 
 .More{
@@ -33,6 +34,7 @@
     color: white;
     border: none;
     align-self: center;
+    margin-bottom: 40px;
 }
 .More:hover{
     background-color: #95a9ee;

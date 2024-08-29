@@ -35,10 +35,6 @@
         "name": "React",
         "image": "https://img.icons8.com/color/48/000000/react-native.png"
     },
-    {
-        "name": "Laravel",
-        "image": "https://img.icons8.com/fluency/48/000000/laravel.png"
-    },
 
     {
         "name": "Flask",

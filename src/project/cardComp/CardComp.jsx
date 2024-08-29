@@ -17,6 +17,9 @@ function CardComp(props){
                 <a href={props.source}>
                     <button className={styles.button}>Source</button>
                 </a>
+                <a href={props.demo}>
+                    <button className={styles.button}>Demo</button>
+                </a>
             </div>
         </div>
     )

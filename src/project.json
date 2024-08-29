@@ -6,7 +6,8 @@
             "title": "Know More IT Game",
             "desc": "Game ini menceritakan tentang anak IT yang sedang menjalankan kunjungan ke perusahaan",
             "techStack": ["Java"],
-            "source": "https://github.com/Djatiaja/Final-PPBO-Game.git"
+            "source": "https://github.com/Djatiaja/Final-PPBO-Game.git",
+            "live": "https://youtu.be/E1lnO9xm9qE"
         },
         {
             "img": "FirstReactWeb.png",
@@ -14,7 +15,8 @@
             "title": "First React Web",
             "desc": "Web ini dibuat dengan menggunakan React untuk menampilkan project yang telah saya buat",
             "techStack": ["React"],
-            "source": "https://github.com/Djatiaja/first-react-web.git"
+            "source": "https://github.com/Djatiaja/first-react-web.git",
+            "live": "djatiaja.live"
         }
     ]
 }
