@@ -13,10 +13,20 @@
             "img": "FirstReactWeb.png",
             "alt": "First react web",
             "title": "First React Web",
-            "desc": "Web ini dibuat dengan menggunakan React untuk menampilkan project yang telah saya buat",
+            "desc": "Web pertama yang saya buat dengan React",
             "techStack": ["React"],
             "source": "https://github.com/Djatiaja/first-react-web.git",
             "live": "djatiaja.live"
+        },
+        {
+            "img": "pokemonFetch.png",
+            "alt": "Pokemon Fetch",
+            "title": "Pokemon Fetch",
+            "desc": "Web yang saya buat untuk belajar fetch API menggunakan Pokemon API",
+            "techStack": ["React"],
+            "source": "https://github.com/Djatiaja/pokemonFetchAPI.git",
+            "live": "pokemon.djatiaja.live"
         }
+
     ]
 }
