@@ -16,7 +16,7 @@
             "desc": "Web ini dibuat dengan menggunakan React untuk menampilkan project yang telah saya buat",
             "techStack": ["React"],
             "source": "https://github.com/Djatiaja/first-react-web.git",
-            "live": "djatiaja.live"
+            "live": "https://djatiaja.live"
         },
         {
             "img": "pokemonFetch.png",
@@ -25,7 +25,7 @@
             "desc": "Web ini saya buat untuk belajar fetch data dari API menggunakan pokemon API",
             "techStack": ["React"],
             "source": "https://github.com/Djatiaja/first-react-web.git",
-            "live": "pokemon.djatiaja.live"
+            "live": "https://pokemon.djatiaja.live"
         }
     ]
 }
