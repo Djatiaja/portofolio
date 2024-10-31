@@ -26,6 +26,15 @@
             "techStack": ["React"],
             "source": "https://github.com/Djatiaja/first-react-web.git",
             "live": "https://pokemon.djatiaja.live"
+        },
+        {
+        "img": "feasypol.png",
+        "alt": "feasypol",
+        "title": "feasypol bloging",
+        "desc": "Web ini saya buat untuk belajar belajar next js",
+        "techStack": ["React"],
+        "source": "",
+        "live": "https://feasypol.live"
         }
     ]
 }
